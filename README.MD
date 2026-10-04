@@ -1,0 +1,1 @@
+![Missing values before cleaning](images/img1.png)
